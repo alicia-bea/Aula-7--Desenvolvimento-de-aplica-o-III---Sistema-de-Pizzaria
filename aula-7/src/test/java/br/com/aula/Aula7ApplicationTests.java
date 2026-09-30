@@ -1,0 +1,13 @@
+package br.com.aula;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Aula7ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
